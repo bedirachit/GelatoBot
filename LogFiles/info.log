@@ -1,0 +1,6 @@
+2020-02-01 13:45:54,939 - InfoLogs - INFO - ORDER DETAILS ::: {'id': 13, 'date': '2019-03-19T23:01:45Z', 'description': 'poster', 'status': 'production', 'updated': '2019-03-20T05:17:20Z'}
+2020-02-01 13:46:00,777 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'ssss22sss', 'text': 'Your order #13 of poster is in production and is yet to be dispatched.'}, {'recipient_id': 'ssss22sss', 'text': "sorry, I didn't understand you, please try input something else"}]
+2020-02-01 13:48:48,008 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'ssss22sssss', 'text': 'Hello! I am support bot! How can I help?'}]
+2020-02-01 13:50:08,035 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'order details my id is 13', 'text': 'Hello! I am support bot! How can I help?'}]
+2020-02-01 13:50:29,690 - InfoLogs - INFO - ORDER DETAILS ::: {'id': 13, 'date': '2019-03-19T23:01:45Z', 'description': 'poster', 'status': 'production', 'updated': '2019-03-20T05:17:20Z'}
+2020-02-01 13:50:29,936 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'qazwsxedc', 'text': 'Your order #13 of poster is in production and is yet to be dispatched.'}, {'recipient_id': 'qazwsxedc', 'text': "sorry, I didn't understand you, please try input something else"}]

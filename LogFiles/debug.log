@@ -1,0 +1,82 @@
+2020-02-01 13:25:28,980 - tensorflow - WARNING - 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+2020-02-01 13:25:50,825 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\utils\adafactor.py:27: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2020-02-01 13:25:50,842 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\utils\multistep_optimizer.py:32: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-02-01 13:25:55,917 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\models\research\glow_init_hook.py:25: The name tf.train.SessionRunHook is deprecated. Please use tf.estimator.SessionRunHook instead.
+
+2020-02-01 13:25:55,970 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\models\research\neural_stack.py:51: The name tf.nn.rnn_cell.RNNCell is deprecated. Please use tf.compat.v1.nn.rnn_cell.RNNCell instead.
+
+2020-02-01 13:25:57,292 - absl - INFO - Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2020-02-01 13:25:57,862 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\utils\trainer_lib.py:111: The name tf.OptimizerOptions is deprecated. Please use tf.compat.v1.OptimizerOptions instead.
+
+2020-02-01 13:25:58,434 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensorflow_gan\python\estimator\tpu_gan_estimator.py:42: The name tf.estimator.tpu.TPUEstimator is deprecated. Please use tf.compat.v1.estimator.tpu.TPUEstimator instead.
+
+2020-02-01 13:26:01,961 - tensorflow - INFO - Restoring parameters from C:\Users\RACHIT~1.BED\AppData\Local\Temp\tmpuuic9i_l\nlu\component_4_EmbeddingIntentClassifier.ckpt
+2020-02-01 13:26:03,618 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\rasa\utils\train_utils.py:1269: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-02-01 13:36:44,525 - tensorflow - WARNING - 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+2020-02-01 13:37:15,062 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\utils\adafactor.py:27: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2020-02-01 13:37:15,080 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\utils\multistep_optimizer.py:32: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-02-01 13:37:21,120 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\models\research\glow_init_hook.py:25: The name tf.train.SessionRunHook is deprecated. Please use tf.estimator.SessionRunHook instead.
+
+2020-02-01 13:37:21,229 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\models\research\neural_stack.py:51: The name tf.nn.rnn_cell.RNNCell is deprecated. Please use tf.compat.v1.nn.rnn_cell.RNNCell instead.
+
+2020-02-01 13:37:22,896 - absl - INFO - Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2020-02-01 13:37:24,045 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensor2tensor\utils\trainer_lib.py:111: The name tf.OptimizerOptions is deprecated. Please use tf.compat.v1.OptimizerOptions instead.
+
+2020-02-01 13:37:25,694 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\tensorflow_gan\python\estimator\tpu_gan_estimator.py:42: The name tf.estimator.tpu.TPUEstimator is deprecated. Please use tf.compat.v1.estimator.tpu.TPUEstimator instead.
+
+2020-02-01 13:37:30,859 - tensorflow - INFO - Restoring parameters from C:\Users\RACHIT~1.BED\AppData\Local\Temp\tmpzq_o9k6w\nlu\component_4_EmbeddingIntentClassifier.ckpt
+2020-02-01 13:37:31,691 - tensorflow - WARNING - From c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\rasa\utils\train_utils.py:1269: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+2020-02-01 13:37:31,838 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-02-01 13:42:23,516 - RasaBot - ERROR - Exception on /GelatoBot/Converse [POST]
+Traceback (most recent call last):
+  File "c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\rachit.bedi\pycharmprojects\gelatobot\venv\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\rachit.bedi\PycharmProjects\GelatoBot\RasaBot\flaskHandler.py", line 14, in bot_response
+    bot_message = rasaAgentManager.get_bot_response(request_data["userMsg"], request_data["sessionId"])
+KeyError: 'sessionId'
+2020-02-01 13:42:23,670 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2020 13:42:23] "[1m[35mPOST /GelatoBot/Converse HTTP/1.1[0m" 500 -
+2020-02-01 13:44:50,884 - root - WARNING - Could not parse timestamp 078f056a30054c008cf2c1a1d966b7cd. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '078f056a30054c008cf2c1a1d966b7cd'
+2020-02-01 13:44:53,948 - rasa.nlu.extractors.duckling_http_extractor - ERROR - Failed to connect to duckling http server. Make sure the duckling server is running/healthy/not stale and the proper host and port are set in the configuration. More information on how to run the server can be found on github: https://github.com/facebook/duckling#quickstart Error: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=3)
+2020-02-01 13:45:54,939 - InfoLogs - INFO - ORDER DETAILS ::: {'id': 13, 'date': '2019-03-19T23:01:45Z', 'description': 'poster', 'status': 'production', 'updated': '2019-03-20T05:17:20Z'}
+2020-02-01 13:46:00,777 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'ssss22sss', 'text': 'Your order #13 of poster is in production and is yet to be dispatched.'}, {'recipient_id': 'ssss22sss', 'text': "sorry, I didn't understand you, please try input something else"}]
+2020-02-01 13:46:00,866 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2020 13:46:00] "[37mPOST /GelatoBot/Converse HTTP/1.1[0m" 200 -
+2020-02-01 13:48:47,560 - root - WARNING - Could not parse timestamp 60828e03bc85425ba2b7df0345c8c5c1. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '60828e03bc85425ba2b7df0345c8c5c1'
+2020-02-01 13:48:48,008 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'ssss22sssss', 'text': 'Hello! I am support bot! How can I help?'}]
+2020-02-01 13:48:48,010 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2020 13:48:48] "[37mPOST /GelatoBot/Converse HTTP/1.1[0m" 200 -
+2020-02-01 13:50:07,672 - root - WARNING - Could not parse timestamp 0b5943dca7b248b7aa1328720c93e9c8. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: '0b5943dca7b248b7aa1328720c93e9c8'
+2020-02-01 13:50:08,035 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'order details my id is 13', 'text': 'Hello! I am support bot! How can I help?'}]
+2020-02-01 13:50:08,137 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2020 13:50:08] "[37mPOST /GelatoBot/Converse HTTP/1.1[0m" 200 -
+2020-02-01 13:50:25,778 - root - WARNING - Could not parse timestamp c564ad2c65844feeae39a460a66f6498. Instead current UTC time will be passed to duckling. Error: invalid literal for int() with base 10: 'c564ad2c65844feeae39a460a66f6498'
+2020-02-01 13:50:29,690 - InfoLogs - INFO - ORDER DETAILS ::: {'id': 13, 'date': '2019-03-19T23:01:45Z', 'description': 'poster', 'status': 'production', 'updated': '2019-03-20T05:17:20Z'}
+2020-02-01 13:50:29,936 - InfoLogs - INFO - BOT RESPONSE ::: [{'recipient_id': 'qazwsxedc', 'text': 'Your order #13 of poster is in production and is yet to be dispatched.'}, {'recipient_id': 'qazwsxedc', 'text': "sorry, I didn't understand you, please try input something else"}]
+2020-02-01 13:50:29,939 - werkzeug - INFO - 127.0.0.1 - - [01/Feb/2020 13:50:29] "[37mPOST /GelatoBot/Converse HTTP/1.1[0m" 200 -
