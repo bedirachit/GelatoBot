@@ -35,8 +35,10 @@ In another window, run the duckling server:
 docker run -p 8000:8000 rasa/duckling
 ```
 In another window, run the bot flask server:
+```
 set flask_app=RasaBot
 flask run --host=0.0.0.0 
+```
 
 ## 🤖 REST Endpoint:
 
