@@ -14,8 +14,10 @@ pip install rasa==1.7.0
 
 ```
 This is the only python module requirement.
-python 3.6
-MongoDB (Default IP and port)
+
+
+python 3.6,
+MongoDB (Default IP and port) and
 Duckling Server (Default IP and port)
 
 ## 🤖 To run GelatoBot:
