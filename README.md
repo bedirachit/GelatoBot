@@ -75,10 +75,10 @@ flask run --host=0.0.0.0
     Bot: you are welcome :)
   ```
  ### Conversation 2
-    ```
+    
     User: Can you tell me about my shipment details my order id is 11 ?
     Bot: Your order #11 of wall calendar has been delivered on 2019-03-04
-    ```
+    
 
 ## 👩‍💻 Overview of the files
 
@@ -95,3 +95,13 @@ flask run --host=0.0.0.0
 `data` - contains rasa nlu and core training files
 
 `config.yml` - training configurations for the NLU pipeline and policy ensemble
+
+
+## 🤖 GelatoBot solution limitations and possible improvements:
+
+- In the sample conversations provided, On asking bot about order status, the bot directly responded back with order details. A           customer can have multiple simultaneous pending orders. Ideally the bot should ask about the customer order id or some reference       number before sharing details. Though I already made this change.
+- Customer specific session management.
+- Can share order images along with the details. If already dispatched, can fetch and share current location of the order from the       logistics partner.
+- Possiblity of order cancelling or address change or delivery instructions.
+
+
