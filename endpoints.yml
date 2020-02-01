@@ -1,0 +1,10 @@
+action_endpoint:
+    url: http://localhost:5055/webhook
+
+tracker_store:
+    type: mongod
+    url: mongodb://localhost:27017
+    db: rasaConvoDB
+#    username: <username used for authentication>
+#    password: <password used for authentication>
+#    auth_source: <database name associated with the user’s credentials>

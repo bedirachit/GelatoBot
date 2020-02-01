@@ -1,0 +1,51 @@
+intents:
+- order_status:
+    use_entities: []
+- chitchat:
+    use_entities: []
+- inform
+- affirm
+- deny
+- stop
+- thankyou
+- greet
+- bot_challenge
+entities:
+- order_id
+slots:
+  caller_id:
+    type: unfeaturized
+  did_number:
+    type: unfeaturized
+    auto_fill: false
+  requested_slot:
+    type: unfeaturized
+responses:
+  utter_submit:
+  - text: All done!
+  utter_slots_values_call_hangup:
+  - text: 'Okay please wait fetching details for caller id : {caller_id} and did number
+      {did_number}'
+  utter_noworries:
+  - text: you are welcome :)
+  utter_chitchat:
+  - text: chitchat
+  utter_ask_continue:
+  - text: do you want to continue?
+  utter_default:
+  - text: sorry, I didn't understand you, please try input something else
+  utter_greet:
+  - text: Hello! I am support bot! How can I help?
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  utter_ask_order_id:
+  - text: Please provide your order id
+actions:
+- utter_slots_values_call_hangup
+- utter_noworries
+- utter_chitchat
+- utter_ask_continue
+- utter_greet
+- utter_iamabot
+forms:
+- order_form
